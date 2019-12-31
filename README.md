@@ -15,7 +15,7 @@ Study material comes from:
 Lecture notes and exercise solution are written in `.md`
 
 
-| Date       | Work Time | Lecture | Reading | Labs | Exercises |
-| ---------- | --------- | ------- | ------- | ---- | --------- |
-| 2019/12/27 |           |         |         |      |           |
+| Date       | Work Time | Lecture               | Labs |
+| ---------- | --------- | --------------------- | ---- |
+| 2019/12/31 | 170mins   | Bits, Bytes, and Ints |      |
 
