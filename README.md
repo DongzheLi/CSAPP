@@ -18,4 +18,6 @@ Lecture notes and exercise solution are written in `.md`
 | Date       | Work Time | Lecture               | Labs |
 | ---------- | --------- | --------------------- | ---- |
 | 2019/12/31 | 170mins   | Bits, Bytes, and Ints |      |
+| 2019/12/31 | 120mins   | Floats                |      |
+
 
